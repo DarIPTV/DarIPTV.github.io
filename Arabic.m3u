@@ -1,0 +1,95 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png" group-title="Classic", Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF: -1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Classic", 2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Arryadialogo.jpg" group-title="Classic", Arriadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Arrabiaa.jpg" group-title="Classic", Attakafiya
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="Classic", Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Assadissa.png" group-title="Classic", Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:0 group-title="Classic"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png",Aflam TV
+http://vvn.neoredi.com/iptv/ch352?code=196151145486952&key=41174
+#EXTINF: -1 tvg-logo="https://www.medi1tv.ma/ar/img/footer/logo_new.png" group-title="Classic", Medi 1 TV Arabic
+http://vvn.neoredi.com/iptv/ch166?code=196151145486952&key=43561
+#EXTINF: -1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Classic", MBC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Classic", MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Classic", MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Classic", MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Classic", MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Classic", MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Classic", MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+#EXTINF: -1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Classic", MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Classic", MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC Plus Drama ARB" tvg-name="MBC Plus Drama ARB" tvg-logo="http://logo.ddnb.tn/logochanel/502.png" group-title="Classic", MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC Plus Variety ARB" tvg-name="MBC Plus Variety ARB" tvg-logo="http://logo.ddnb.tn/logochanel/1102.png" group-title="Classic", MBC Plus Variety
+http://vvn.neoredi.com/iptv/ch1102?code=196151145486952&key=26246
+#EXTINF: -1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Classic", Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Classic", MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF: -1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Classic", MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF: -1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="Classic", LBC International
+https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
+#EXTINF: -1 tvg-id="MTV Lebanon ARB" tvg-name="MTV Lebanon ARB" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Classic", MTV Lebanon
+http://vvn.neoredi.com/iptv/ch163?code=196151145486952&key=38359
+#EXTINF: -1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Classic", National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="",Rotana Cinema HD
+https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="",Rotana Classic HD
+https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-name="Rotana Comedy ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="",Rotana Comedy HD
+https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="",Rotana Drama HD
+https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="",Rotana Khalijia HD
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+#EXTINF: -1 tvg-id="Rotana Clip ARB" tvg-name="Rotana Clip ARB" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" group-title="Classic", Rotana Clip
+http://vvn.neoredi.com/iptv/ch190?code=196151145486952&key=25184
+#EXTINF: -1 tvg-id="Rotana Music ARB" tvg-name="Rotana Music ARB" tvg-logo="https://i.imgur.com/N4AyK2U.png" group-title="Classic", Rotana Music
+http://vvn.neoredi.com/iptv/ch2212?code=196151145486952&key=27359
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="",Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Classic", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network Arabic ARB" tvg-name="Cartoon Network Arabic ARB" tvg-logo="https://i.imgur.com/mT3mCCK.png" group-title="Classic", Cartoon Network
+http://vvn.neoredi.com/iptv/ch65?code=196151145486952&key=59355
+#EXTINF: -1 tvg-id="Nile Drama ARB" tvg-name="Nile Drama ARB" tvg-logo="https://i.imgur.com/jiyPTfa.png" group-title="Classic", Nile Drama
+http://vvn.neoredi.com/iptv/ch69?code=196151145486952&key=37679
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xhR4dy0.jpg" group-title="Classic", Nile Cinema
+http://vvn.neoredi.com/iptv/ch180?code=196151145486952&key=18550
+#EXTINF: -1 tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="Classic", Nessma
+http://vvn.neoredi.com/iptv/ch5?code=196151145486952&key=11363
+#EXTINF: -1 tvg-id="Mazzika ARB" tvg-name="Mazzika ARB" tvg-logo="https://i.imgur.com/uaIndQt.png" group-title="Classic", Mazzika
+http://vvn.neoredi.com/iptv/ch29?code=196151145486952&key=26037
+#EXTINF: -1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-logo="https://i.imgur.com/VZmLIY2.png" group-title="Classic", CBC
+http://vvn.neoredi.com/iptv/ch23?code=196151145486952&key=19525
+#EXTINF: -1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-logo="https://i.imgur.com/VW5Qk23.png" group-title="Classic", CBC Drama
+http://vvn.neoredi.com/iptv/ch22?code=196151145486952&key=26921
+#EXTINF: -1 tvg-id="Dubai TV ARB" tvg-name="Dubai TV ARB" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="Classic", Dubai TV
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Classic", Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="Classic", Sama Dubai
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF: -1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="Classic", Abu Dhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF: -1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Classic", Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/laayounex2.png" group-title="Classic", Al Aoula Laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
